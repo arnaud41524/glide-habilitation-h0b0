@@ -1,0 +1,6 @@
+id,question_id,choice_text,is_correct
+1,1,Haute tension,True
+2,1,Basse tension,Ealse
+3,1,Tres basse tension,False
+4,2,Non,:False
+5,2,Verifier la presence d'un risré electrique,True
